@@ -1,6 +1,6 @@
 # calculadora_1
 
-A new Flutter project.
+A Flutter project about a calculator.
 
 ## Getting Started
 
