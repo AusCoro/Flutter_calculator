@@ -1,4 +1,4 @@
-# calculadora_1
+# Flutter_calculator
 
 A Flutter project about a calculator.
 
